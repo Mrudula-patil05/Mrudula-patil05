@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, Machine Learning, Flask, MongoDB, React**
 
-- 📫 How to reach me **mrudulapatil2205@gmail.com**
+- 📫 How to reach me **patilmrudula2205@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1H1lOO4B2ENZ8UFoHA2eYBP9qZZdCIYmz/view?usp=sharing](https://drive.google.com/file/d/1H1lOO4B2ENZ8UFoHA2eYBP9qZZdCIYmz/view?usp=sharing)
 
